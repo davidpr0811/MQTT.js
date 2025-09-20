@@ -23,6 +23,12 @@ junit.xml
 
 /build/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # macOS stuff
 .DS_Store
 .DS_Store?
